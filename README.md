@@ -4,10 +4,11 @@
 <img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coder GIF" width="380" height="280">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notepsilon&label=Profile%20views&color=0e75b6&style=flat" alt="notepsilon" /> </p>
 
-<h3>🚀 About Me</h3> 
-<h4> A front-end developer who is passionate about building interactive web apps and loves application designs.
-I love doing some painting, read alot in art and my spotify always open.</h4>
+- 🌱 I’m currently learning **Back-End stuff**
 
+- 💬 Ask me about **React, JS, Vue, TailwindCSS**
+
+- 📫 How to reach me **ahmdemadabdallah@gmail.com**
 
 	
 
