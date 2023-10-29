@@ -28,7 +28,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
 -->
-
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
 
 - ### I’m currently learning 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
