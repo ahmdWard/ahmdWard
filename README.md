@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emad</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
 
-<img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coder GIF" width="600" height="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notepsilon&label=Profile%20views&color=0e75b6&style=flat" alt="notepsilon" /> </p>
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Amr Elsayed from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
+<h4> A front-end developer who is passionate about building interactive web apps and loves application designs.
+I love doing some painting, read alot in art and my spotify always open.</h4>
 
 
 	
