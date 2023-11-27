@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emad</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
-
+<br>
+<br>
 <img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coder GIF" width="380" height="280">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=notepsilon&label=Profile%20views&color=0e75b6&style=flat" alt="notepsilon" /> </p> -->
 
