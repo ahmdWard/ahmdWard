@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from Egypt</h3>
 
 <img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coder GIF" width="380" height="280">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notepsilon&label=Profile%20views&color=0e75b6&style=flat" alt="notepsilon" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=notepsilon&label=Profile%20views&color=0e75b6&style=flat" alt="notepsilon" /> </p> -->
 
 - 🌱 I’m currently learning **Back-End stuff**
 
