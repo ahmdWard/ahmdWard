@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 ### 💫 About Me
-- 👨‍💻 Passionate about building scalable web applications
+- 👨‍💻 Passionate about building services 
 - 📫 Reach me at: **ahmdemadabdallah@gmail.com**
 ### 🤝 Connect with me
 <p align="left">
