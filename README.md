@@ -21,7 +21,7 @@
 ```Js
 skills = {
     "Backend": ["NodeJS", "Express", "NestJS"],
-    "Databases": ["PostgreSQL", "SQLite", "MySQL", "Mongoo DB],
+    "Databases": ["PostgreSQL", "SQLite", "Mongoo DB],
     "DevOps & Tools": ["Git", "CI/CD", "Docker", "Postman"],
     "API": ["RESTful Design", "JWT Authentication", "SSL","Oauth"],
     "Testing": ["Jest Testing", "API Testing"],
@@ -31,7 +31,7 @@ skills = {
 
 
 ### what i do
-  - Built APIs with NodeJs and Express, ensuring robust and scalable backend solutions.
+  - Built APIs with NodeJs and Express, ensuring robust and backend solutions.
   - Managed deployment pipelines and CI/CD workflows, streamlining development and release processes.
 
 
